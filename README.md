@@ -1,6 +1,7 @@
 # andriod_Device_smdk4412_cm14
 cm rom for smdk4412 
 --copy from lineageOS git for smdk4412--
+
 Linux kernel release 3.x <http://kernel.org/>
 
 These are the release notes for Linux version 3.  Read them carefully,
